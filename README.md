@@ -12,17 +12,9 @@
 
 ## 🚀 About Me
 
-**Java Full Stack Developer** and **Cybersecurity Enthusiast** with a passion for building robust applications and securing them against vulnerabilities. As a fresher, I am eager to apply my learning to solve real-world problems and continuously evolve my skill set in both software engineering and defensive security.
+**Java Full Stack Developer** and **Cybersecurity Enthusiast** with a passion for crafting secure, robust web applications. I'm a **fast learner**, **enthusiastic**, and always eager to **adapt to new technologies** and security practices. My journey is driven by curiosity and the relentless pursuit of excellence in writing secure code.
 
-> *"Security is not a product, but a process."* - My mantra for continuous learning 🛡️
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kotasagar&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
+> *"Hard work beats talent when talent doesn't work hard" - My mantra for continuous growth* 💪
 
 ## 🛠️ Tech Arsenal
 
@@ -44,13 +36,19 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Cybersecurity & Tools
+### Cybersecurity
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-162E5B?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-007FFF?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+</p>
+
+### Tools & Version Control
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Wireshark-162E5B?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 </div>
@@ -58,16 +56,22 @@
 ## 🌟 Featured Projects
 
 ### 🎯 [Secure Spring Boot REST API](https://github.com/kotasagar/secure-springboot-api)
-- 🔒 Secure backend API built with Spring Boot, Spring Security, JWT, and PostgreSQL.
-- 🛡️ Implemented input validation, password hashing (BCrypt), and rate-limiting to protect against OWASP Top 10 vulnerabilities.
+**Role:** Sole Developer
+- 🔒 Secure backend API built with Spring Boot, Spring Security, JWT, and PostgreSQL
+- 🛡️ Implemented input validation, password hashing (BCrypt), and CORS configurations
+- 🚦 Configured rate-limiting and JWT token expiration to protect endpoints
 
 ### 🎯 [Packet Capture & Network Analyzer](https://github.com/kotasagar/packet-analyzer)
-- 💻 A network traffic analysis tool built to capture packets and examine TCP/UDP headers.
-- 🚦 Identifies unusual packet frequencies and warns of potential security issues in a local network sandbox.
+**Role:** Creator
+- 💻 Network traffic analysis tool built to capture packets and examine TCP/UDP headers
+- 🚀 Identifies unusual packet frequencies and triggers basic intrusion alerts
+- 🎨 Visualizes packet metrics in a clean JavaFX console
 
-### 🎯 [Vulnerability & Secure Code Lab](https://github.com/kotasagar/vulnerability-lab)
-- 🔬 A collection of hands-on exercises demonstrating vulnerability remediation (SQL injection, XSS, CSRF) in Java.
-- 🧪 Configured lab environments using Docker to demonstrate pen-testing methodologies using Kali Linux.
+### 🎯 [Vulnerability Scanning & Secure Code Lab](https://github.com/kotasagar/vulnerability-lab)
+**Role:** Security Analyst
+- 🔬 A collection of hands-on security exercises demonstrating vulnerability remediation
+- 🧪 Fixed OWASP Top 10 vulnerabilities (SQL Injection, XSS, CSRF) in Java web apps
+- 🛠️ Simulated penetration tests in a Docker sandboxed network using Kali Linux
 
 ## 📊 GitHub Analytics
 
@@ -89,6 +93,9 @@
   <a href="https://www.linkedin.com/in/kotasagar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/kotasagar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
@@ -100,5 +107,5 @@
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kotasagar">kotasagar</a> - Evolving & Securing one byte at a time!</i>
+  <i>⭐️ From <a href="https://github.com/kotasagar">kotasagar</a> - Always building something awesome!</i>
 </div>
